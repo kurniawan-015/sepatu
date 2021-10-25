@@ -18,7 +18,7 @@
 			<?= form_error('no_hp','<small class="text-danger pl-3">','</small> '); ?>
 			</div>
 			<div class="input-group input-group-icon">
-			<select name="merek" id="Sepatu" class="form-select">
+			<select name="merek" id="Sepatu" class="form-select-	">
 				<option selected value="" >Pilih Sepatu</option>
 				<option value="Nike">Nike</option>
 				<option value="Adidas">Adidas</option>
